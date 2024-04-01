@@ -1,5 +1,4 @@
 /raw_data
-/notebooks
 .DS_Store
 .env
 .streamlit
